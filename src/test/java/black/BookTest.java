@@ -1,4 +1,4 @@
-import black.Book;
+package black;
 
 public class BookTest {
     public static void main(String[] args) {
